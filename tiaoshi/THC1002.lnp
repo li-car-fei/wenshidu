@@ -1,0 +1,7 @@
+"STARTUP.obj",
+"main.obj",
+"1602.obj",
+"dht.obj",
+"2402.obj" 
+TO "THC1002" 
+RAMSIZE(256) 
